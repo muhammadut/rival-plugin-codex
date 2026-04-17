@@ -1,0 +1,22 @@
+{
+  "name": "@muhammadut/rival-plugin-codex",
+  "version": "1.11.0",
+  "description": "Codex-native port of the rival plugin: research, plan, execute, verify, learn. Multi-repo with adversarial review.",
+  "keywords": [
+    "codex-plugin",
+    "workflow",
+    "review",
+    "planning",
+    "multi-repo",
+    "research"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/muhammadut/rival-plugin-codex",
+  "files": [
+    ".codex-plugin/",
+    ".agents/",
+    "skills/",
+    "references/",
+    "scripts/"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "rival",
+  "version": "1.11.0",
+  "description": "Production-grade development workflow: research, plan, execute, verify, learn. Multi-repo support with adversarial review. Codex-native port of the Claude Code rival plugin.",
+  "author": {
+    "name": "muhammadut",
+    "url": "https://github.com/muhammadut"
+  },
+  "homepage": "https://github.com/muhammadut/rival-plugin-codex",
+  "repository": "https://github.com/muhammadut/rival-plugin-codex",
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "codex",
+    "review",
+    "planning",
+    "multi-repo",
+    "research",
+    "learning"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Rival",
+    "shortDescription": "Research, plan, execute, verify, learn",
+    "longDescription": "Production-grade development workflow with research-backed planning, parallel execution, adversarial review, and persistent lessons learned. Multi-repo aware. Uses codex exec sub-sessions for agent-style work.",
+    "developerName": "muhammadut",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "/rival-init to configure this workspace",
+      "/rival-plan <feature> to plan a change",
+      "/rival-research <question> to explore options"
+    ],
+    "brandColor": "#3B82F6"
+  }
+}

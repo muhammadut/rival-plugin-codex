@@ -1,0 +1,20 @@
+{
+  "name": "rival-plugin-codex",
+  "interface": {
+    "displayName": "Rival (Codex)"
+  },
+  "plugins": [
+    {
+      "name": "rival",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rival"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
