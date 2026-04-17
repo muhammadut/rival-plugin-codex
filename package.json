@@ -13,10 +13,10 @@
   "license": "MIT",
   "repository": "https://github.com/muhammadut/rival-plugin-codex",
   "files": [
-    ".codex-plugin/",
     ".agents/",
-    "skills/",
-    "references/",
-    "scripts/"
+    "plugins/rival/.codex-plugin/",
+    "plugins/rival/skills/",
+    "plugins/rival/references/",
+    "plugins/rival/scripts/"
   ]
 }
