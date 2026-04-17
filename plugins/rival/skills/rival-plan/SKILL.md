@@ -1,6 +1,6 @@
 ---
 name: rival-plan
-description: Plan a feature. Researches best practices, explores codebase, synthesizes self-contained execution plan with auto-review. Usage: `/rival-plan <feature-description> [--light] [--discussion] [--no-questions]`.
+description: "Plan a feature. Researches best practices, explores codebase, synthesizes self-contained execution plan with auto-review. Usage: `/rival-plan <feature-description> [--light] [--discussion] [--no-questions]`."
 metadata:
   short-description: Research + analysis + planning orchestrator
 ---

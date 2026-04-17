@@ -1,6 +1,6 @@
 {
   "name": "rival",
-  "version": "1.11.0",
+  "version": "1.11.1",
   "description": "Production-grade development workflow: research, plan, execute, verify, learn. Multi-repo support with adversarial review. Codex-native port of the Claude Code rival plugin.",
   "author": {
     "name": "muhammadut",

@@ -1,6 +1,6 @@
 ---
 name: rival-retro
-description: Extract lessons learned and codebase patterns from completed workstreams. Builds persistent knowledge for future planning. Usage: `/rival-retro [workstream-name]`.
+description: "Extract lessons learned and codebase patterns from completed workstreams. Builds persistent knowledge for future planning. Usage: `/rival-retro [workstream-name]`."
 metadata:
   short-description: Post-workstream knowledge extraction and archival
 ---

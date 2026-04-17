@@ -1,6 +1,6 @@
 ---
 name: rival-init
-description: Initialize Rival by connecting to Azure DevOps, pulling all repos and wikis, indexing stacks, configuring expert domains, and review tools. Usage: `/rival-init`.
+description: "Initialize Rival by connecting to Azure DevOps, pulling all repos and wikis, indexing stacks, configuring expert domains, and review tools. Usage: `/rival-init`."
 metadata:
   short-description: Azure DevOps onboarding + workspace indexing
 ---

@@ -1,6 +1,6 @@
 ---
 name: rival-execute
-description: Execute an approved plan using sub-agents. Reads self-contained plan from disk — needs no prior context. Usage: `/rival-execute [workstream-name]`.
+description: "Execute an approved plan using sub-agents. Reads self-contained plan from disk — needs no prior context. Usage: `/rival-execute [workstream-name]`."
 metadata:
   short-description: Multi-repo sub-agent build orchestrator with parallel waves and phase gates
 ---

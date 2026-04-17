@@ -1,6 +1,6 @@
 ---
 name: rival-status
-description: Show status of all Rival workstreams. Usage: `/rival-status`.
+description: "Show status of all Rival workstreams. Usage: `/rival-status`."
 metadata:
   short-description: Workstream dashboard and status reporter
 ---

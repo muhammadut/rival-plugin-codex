@@ -1,6 +1,6 @@
 ---
 name: rival-educate
-description: Explain the current workstream findings, decisions, and concepts in plain English. Helps junior developers understand what's happening and why. Usage: `/rival-educate [question or topic]`.
+description: "Explain the current workstream findings, decisions, and concepts in plain English. Helps junior developers understand what's happening and why. Usage: `/rival-educate [question or topic]`."
 metadata:
   short-description: Workstream learning guide and explanation mode
 ---

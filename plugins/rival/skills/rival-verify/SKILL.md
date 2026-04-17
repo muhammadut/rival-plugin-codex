@@ -1,6 +1,6 @@
 ---
 name: rival-verify
-description: Adversarial code verification with Codex CLI (primary) and skeptical-reviewer fallback. Usage: `/rival-verify [workstream-name]`.
+description: "Adversarial code verification with Codex CLI (primary) and skeptical-reviewer fallback. Usage: `/rival-verify [workstream-name]`."
 metadata:
   short-description: Multi-repo adversarial code verification orchestrator
 ---

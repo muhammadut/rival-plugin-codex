@@ -1,6 +1,6 @@
 ---
 name: rival-review-code
-description: Dual-reviewer code review. Launches Architect + Adversary reviewers in parallel, synthesizes findings with attribution across 7 review dimensions. Usage: `/rival-review-code [--branch <name>] [--commits <range>] [--pr <id>] [--files <paths>] [--workstream <id>]`.
+description: "Dual-reviewer code review. Launches Architect + Adversary reviewers in parallel, synthesizes findings with attribution across 7 review dimensions. Usage: `/rival-review-code [--branch <name>] [--commits <range>] [--pr <id>] [--files <paths>] [--workstream <id>]`."
 metadata:
   short-description: Dual-reviewer (Architect + Adversary) code review orchestrator
 ---

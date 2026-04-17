@@ -1,6 +1,6 @@
 ---
 name: rival-investigate
-description: Senior FAANG engineer mode. Answer any question about the codebase, architecture, or technology by scaling depth to complexity. Asks clarifying questions for complex queries. Usage: `/rival-investigate <any question about the codebase, architecture, or tech>`.
+description: "Senior FAANG engineer mode. Answer any question about the codebase, architecture, or technology by scaling depth to complexity. Asks clarifying questions for complex queries. Usage: `/rival-investigate <any question about the codebase, architecture, or tech>`."
 metadata:
   short-description: Senior-engineer investigation with scaled depth
 ---

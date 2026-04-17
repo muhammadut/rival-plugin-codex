@@ -1,6 +1,6 @@
 ---
 name: rival-research
-description: Standalone research command. Explore ideas, find best practices, compare options — without committing to a plan. Usage: `/rival-research <question or topic>`.
+description: "Standalone research command. Explore ideas, find best practices, compare options — without committing to a plan. Usage: `/rival-research <question or topic>`."
 metadata:
   short-description: Standalone research + options comparison (no plan commitment)
 ---
